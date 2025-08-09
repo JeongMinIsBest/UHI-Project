@@ -1,6 +1,7 @@
 # 🏝 전주시 열섬 지도 · 녹지 추천 · 퀴즈 애플리케이션 
 <br/>
 전주시를 대상으로 도시 열섬(Urban Heat Island) 현상을 분석하고, 녹지 공간 추천, 열섬 지도 시각화, 열섬 지식 퀴즈 기능을 제공하는 **도시 열섬 바로 알기** All-in-one Android Application입니다. 📱 
+<br/>
 
 <img width="1920" height="1080" alt="슬라이드1" src="https://github.com/user-attachments/assets/7b5dc1d9-e2ef-4934-b258-13c553ffe022" />
 <br/>
