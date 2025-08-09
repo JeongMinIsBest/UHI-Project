@@ -1,20 +1,14 @@
-# 2023 2nd Urban Heat Island Project — 금암동쌍두마차
+# 🏝 전주시 열섬 지도 · 녹지 추천 · 퀴즈 애플리케이션 
 
 전주시를 대상으로 도시 열섬(Urban Heat Island) 현상을 분석하고,  
 녹지 공간 추천, 열섬 지도 시각화, 열섬 지식 퀴즈 기능을 제공하는  
-**All-in-one Android Application** 프로젝트입니다.
+**도시 열섬 바로 알기** All-in-one Android Application 📱 
 
----
+<img width="1920" height="1080" alt="슬라이드1" src="https://github.com/user-attachments/assets/7b5dc1d9-e2ef-4934-b258-13c553ffe022" />
+<br/>
+
 
 ## 📌 프로젝트 개요
-- **프로젝트명**: 금암동쌍두마차
-- **목표**:  
-  1. 2017~2021년 전주시 여름철 도시 열섬 데이터 시각화  
-  2. 현재 위치 기반 녹지 공간 추천  
-  3. 열섬 관련 지식 퀴즈를 통한 인식 제고
-- **대상 지역**: 전라북도 전주시
-
----
 
 ## 🌡 도시 열섬이란?
 산업화와 도시화로 인해 녹지 면적이 감소하면서,  
