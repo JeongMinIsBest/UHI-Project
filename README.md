@@ -4,6 +4,7 @@
 녹지 공간 추천, 열섬 지도 시각화, 열섬 지식 퀴즈 기능을 제공하는  
 전주시 열섬 지도 · 녹지 추천 · 퀴즈 애플리케이션입니다. 📱 
 <br/>
+<br/>
 
 <img width="1920" height="1080" alt="슬라이드1" src="https://github.com/user-attachments/assets/7b5dc1d9-e2ef-4934-b258-13c553ffe022" />
 <br/>
@@ -17,6 +18,7 @@
 - 녹지 추천 / 퀴즈 기능 실행 버튼
 - 하단에 연도별 전주시 열섬 지도 표시
 <br/>
+<br/>
 
 <img width="1920" height="1080" alt="슬라이드9" src="https://github.com/user-attachments/assets/23808260-c7f1-4c13-831e-f91b9a12ce63" />
 <br/>
@@ -27,6 +29,7 @@
 - 거리·면적·시설 종합 점수로 순위화
 - 지도에 마커 표시 (Top3 : 노란색, 나머지 : 빨간색, 선택 : 파란색)
 - 리스트뷰로 상세정보 제공 및 길찾기 지원
+<br/>
 <br/>
 
 <img width="1920" height="1080" alt="슬라이드10" src="https://github.com/user-attachments/assets/eef5efa2-7b69-42f3-bd46-0b84b1ba98cc" />
@@ -44,6 +47,7 @@
   - 회색: 데이터 없음
 - 연도별 비교 및 구역 정보 팝업
 <br/>
+<br/>
 
 <img width="1920" height="1080" alt="슬라이드13" src="https://github.com/user-attachments/assets/a8cd9534-4122-4b39-81c6-a07ddadb6206" />
 <br/>
@@ -53,6 +57,7 @@
 - 실행 시 랜덤 문제 출제
 - 힌트 제공 기능
 - 퀴즈를 통한 도시 열섬 인식 강화
+<br/>
 <br/>
 
 <img width="1920" height="1080" alt="슬라이드14" src="https://github.com/user-attachments/assets/dbf32c99-5ebe-4edf-8dcd-21f74d2c9985" />
