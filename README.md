@@ -1,8 +1,11 @@
-# 🏝 전주시 열섬 지도 · 녹지 추천 · 퀴즈 애플리케이션 
+# 🏝 Jeonju Urban Heat Island Map · Green Space Recommendation · Quiz Application
 <br/>
-전주시를 대상으로 도시 열섬(Urban Heat Island) 현상을 분석하고,  
-녹지 공간 추천, 열섬 지도 시각화, 열섬 지식 퀴즈 기능을 제공하는  
-전주시 열섬 지도 · 녹지 추천 · 퀴즈 애플리케이션입니다. 📱 
+This mobile application analyzes the **Urban Heat Island (UHI)** phenomenon in **Jeonju City** and provides  
+- urban heat island map visualization,  
+- nearby green space recommendations,
+- and an educational quiz on heat island concepts.
+
+The project aims to raise public awareness of urban heat issues while offering data-driven, location-based recommendations.
 <br/>
 <br/>
 
@@ -11,12 +14,15 @@
 <br/>
 
 
-## 📱 주요 기능
+## 📱 Key Features
 
-### 1. 메인 화면
-- 현재 위치 권한 요청 → 기상청 API로 온도·열섬 지수 안내
-- 녹지 추천 / 퀴즈 기능 실행 버튼
-- 하단에 연도별 전주시 열섬 지도 표시
+### 1. Main Screen
+- Requests current location permission
+- Displays real-time temperature and heat index using the **Korea Meteorological Administration (KMA) API**
+- Buttons to access:
+  - Green space recommendation
+  - Heat island quiz
+- Displays **yearly Jeonju heat island maps** at the bottom
 <br/>
 <br/>
 
@@ -24,11 +30,19 @@
 <br/>
 <br/>
 
-### 2. 녹지 공간 추천
-- 현재 위치에서 가까운 공원 Top 10 선정
-- 거리·면적·시설 종합 점수로 순위화
-- 지도에 마커 표시 (Top3 : 노란색, 나머지 : 빨간색, 선택 : 파란색)
-- 리스트뷰로 상세정보 제공 및 길찾기 지원
+### 2. Green Space Recommendation
+- Recommends **Top 10 nearby parks** based on the user’s current location
+- Ranking is computed using a **composite score**:
+  - Distance
+  - Area size
+  - Available facilities
+- Map markers:
+  - 🟡 Top 3 parks
+  - 🔴 Other recommended parks
+  - 🔵 Selected park
+- Provides:
+  - Detailed information via list view
+  - Navigation support
 <br/>
 <br/>
 
@@ -38,14 +52,16 @@
 <br/>
 <br/>
 
-### 3. 전주시 열섬 지도
-- 2017~2021년 데이터 시각화
-- 열섬 지수(UHI)에 따른 반경원 색상 구분  
-  - 빨강: 80 이상  
-  - 주황: 76 이상  
-  - 노랑: 76 미만  
-  - 회색: 데이터 없음
-- 연도별 비교 및 구역 정보 팝업
+### 3. Jeonju Urban Heat Island Map
+- Visualizes data from **2017 to 2021**
+- Heat island index (UHI) represented by colored radius circles:
+  - 🔴 Red: 80 or higher  
+  - 🟠 Orange: 76 or higher  
+  - 🟡 Yellow: below 76  
+  - ⚪ Gray: no data
+- Supports:
+  - Year-by-year comparison
+  - Region-specific information pop-ups
 <br/>
 <br/>
 
@@ -53,10 +69,10 @@
 <br/>
 <br/>
 
-### 4. 열섬 현상 지식 퀴즈
-- 실행 시 랜덤 문제 출제
-- 힌트 제공 기능
-- 퀴즈를 통한 도시 열섬 인식 강화
+### 4. Urban Heat Island Knowledge Quiz
+- Randomly generates quiz questions on execution
+- Provides hint functionality
+- Designed to improve public understanding of urban heat island phenomena
 <br/>
 <br/>
 
@@ -65,18 +81,18 @@
 <br/>
 
 
-## 🛠 기술 스택
+## 🛠 Tech Stack
 
 <img width="1920" height="1080" alt="슬라이드6" src="https://github.com/user-attachments/assets/bb02aebe-8e1a-4d93-a561-d249ab7a0ca3" />
 <br/>
 <br/>
 
 
-## 👥 팀원 역할
-- **강지현** : 열섬 지식 퀴즈 구현
-- **김세현** : 열섬 지도 구현, DB·GitHub 관리, 현재 기온 안내
-- **임정민** : 메인 페이지 개발, UI 디자인, PPT 제작·발표
-- **정준희** : Google Maps API 연동
-- **차재현** : 녹지 추천 알고리즘 구현
+## 👥 Team Roles
+- **Jihyeon Kang**: Urban heat island quiz implementation  
+- **Sehyun Kim**: Heat island map implementation, database & GitHub management, real-time temperature display  
+- **Jeongmin Lim**: Main page development, UI design, presentation & pitching  
+- **Junhee Jung**: Google Maps API integration  
+- **Jaehyun Cha**: Green space recommendation algorithm  
 <br/>
 <br/>
