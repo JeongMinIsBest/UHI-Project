@@ -73,6 +73,6 @@ This mobile application analyzes **the Urban Heat Island (UHI) phenomenon in Jeo
 - **Sehyun Kim**: Heat island map implementation, database & GitHub management, real-time temperature display  
 - **Jeongmin Lim**: Main page development, UI design, presentation & pitching  
 - **Junhee Jung**: Google Maps API integration  
-- **Jaehyun Cha**: Green space recommendation algorithm  
+- **Jaehyun Cha**: Green space recommendation algorithm
 <br/>
 <br/>
