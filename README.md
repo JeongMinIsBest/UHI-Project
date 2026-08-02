@@ -1,4 +1,4 @@
-# 🏝 Jeonju Urban Heat Island Map · Green Space Recommendation · Quiz Application
+# Jeonju Urban Heat Island Map · Green Space Recommendation · Quiz Application 🏝
 This mobile application analyzes **the Urban Heat Island (UHI) phenomenon in Jeonju City** and provides **urban heat island map visualization, nearby green space recommendations, and an educational quiz on heat island concepts.** The project aims to raise public awareness of urban heat issues while offering data-driven, location-based recommendations.
   
 <img width="1920" height="1080" alt="슬라이드1" src="https://github.com/user-attachments/assets/7b5dc1d9-e2ef-4934-b258-13c553ffe022" />
